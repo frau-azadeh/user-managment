@@ -43,19 +43,19 @@ This dashboard provides **CRUD operations**, **role-based access control**, and 
 
 git clone https://github.com/frau-azadeh/user-management.git
 
-  cd user-management
-  npm install
+    cd user-management
+    npm install
 
 ## 🌍 Environment Variables
 
 Create a .env.local file in the root directory and add:
 
-  VITE_SUPABASE_URL=your_supabase_url
-  VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+    VITE_SUPABASE_URL=your_supabase_url
+    VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 ## 🚀 Running the Project
 
-  npm run dev
+    npm run dev
 
 Then open http://localhost:5173 in your browser.
 
