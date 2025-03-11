@@ -40,7 +40,6 @@ This dashboard provides **CRUD operations**, **role-based access control**, and 
 
 ## 📦 Installation & Setup
 
-
 git clone https://github.com/frau-azadeh/user-management.git
 
     cd user-management
@@ -70,4 +69,3 @@ Users are stored in Supabase Database, and authentication is handled via Supabas
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 Developed with 🌻 by Azadeh Sharifi Soltani Feel free to connect and collaborate!
-
