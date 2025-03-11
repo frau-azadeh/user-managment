@@ -1,4 +1,4 @@
-# 👤 User Management Dashboard
+# 🏢🔧 User Management Dashboard
 
 A powerful **User Management System** built with **React, TypeScript, Redux Toolkit, and Supabase**.  
 This dashboard provides **CRUD operations**, **role-based access control**, and real-time database integration.
