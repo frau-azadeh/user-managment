@@ -6,6 +6,12 @@
   text-align: center;
 }
 
+body{
+  direction: rtl;
+  font-family: vazir;
+  background-color:#FDF4FF ;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
