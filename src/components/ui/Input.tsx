@@ -20,7 +20,7 @@ interface InputProps {
 const Input:React.FC<InputProps> = ({label, name, type = "text", placeholder, register, error}) => {
   return (
     <div className='flex flex-col'>
-        <label className='mb-1 text-gray-700 font-medium'>{label}</label>
+        <label className='m-2 text-gray-700 font-medium text-right'>{label}</label>
         <input 
             {...register(name)}
             type={type}
