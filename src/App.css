@@ -9,7 +9,7 @@
 body{
   direction: rtl;
   font-family: vazir;
-  background-color:#FDF4FF ;
+  background-color:var(--background-color) ;
 }
 
 .logo {
